@@ -55,3 +55,14 @@ string Age = Console.ReadLine();
 
 
 persona.SayHi();
+
+
+
+
+
+
+
+----------------------
+
+    Human human = new Human ()
+    human.Name = "Artis"
